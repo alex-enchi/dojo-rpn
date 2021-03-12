@@ -5,4 +5,4 @@
  
 ## Spirit
 
-Hello :)
+Goal is rpn (https://codingdojo.org/kata/RPN/)
